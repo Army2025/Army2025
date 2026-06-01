@@ -32,14 +32,6 @@ Conquistar minha primeira oportunidade como Desenvolvedora Front-End e construir
 
 ---
 
-## 📈 GitHub Stats
-
-![Paula GitHub Stats](https://github-readme-stats.vercel.app/api?username=Army2025&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Army2025&layout=compact)
-
----
-
 ## 📫 Contato
 
 LinkedIn:
