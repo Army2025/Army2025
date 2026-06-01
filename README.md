@@ -1,23 +1,50 @@
-# Olá, eu sou a Paula Canalle 👋
+<h1 align="center">Olá, eu sou a Paula Canalle 👋</h1>
 
+<p align="center">
+💻 Front-End Developer em formação <br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+</p>
 
-💻 Focada em Desenvolvimento Front-End
+---
 
-🚀 Atualmente estudando:
+## 🚀 Tecnologias que estou estudando
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+<div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode" />
+</div>
+
+---
+
+## 📚 Atualmente focada em
+
 - React
+- TypeScript
+- JavaScript Moderno (ES6+)
+- Responsividade
+- Consumo de APIs
 - Git e GitHub
 
-## Sobre mim
+---
 
-Sou estudante de ADS e estou construindo minha carreira na área de desenvolvimento Front-End.
+## 🎯 Objetivo
 
-Atualmente estou desenvolvendo projetos práticos para fortalecer meu portfólio e conquistar minha primeira oportunidade na área de tecnologia.
+Conquistar minha primeira oportunidade como Desenvolvedora Front-End e construir aplicações modernas utilizando React e TypeScript.
+
+---
+
+## 📈 GitHub Stats
+
+![Paula GitHub Stats](https://github-readme-stats.vercel.app/api?username=Army2025&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Army2025&layout=compact)
+
+---
+
+## 📫 Contato
+
+LinkedIn:
+
+www.linkedin.com/in/paula-canalle
 
 ## Tecnologias
 
